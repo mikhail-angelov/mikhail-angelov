@@ -35,7 +35,7 @@ I help startups and small teams ship products fast: from MVP to production, with
 
 | Project | Description |
 |---------|-------------|
-| [mongo-unit](https://github.com/mikhail-angelov/mongo-unit) | ⭐ 74 — In-memory MongoDB for unit tests, published on npm, used across [X] projects |
+| [mongo-unit](https://github.com/mikhail-angelov/mongo-unit) | ⭐ 74 — In-memory MongoDB for unit tests, published on npm, used across 42 projects |
 | [2maps-and](https://github.com/mikhail-angelov/2maps-and) | Extended Map component for Android (Kotlin / MapLibre) |
 | [badge-maker](https://github.com/mikhail-angelov/badge-maker) | Online canvas editor for custom badges |
 | [ShotMark](https://github.com/mikhail-angelov/shotmark) | Screenshot annotation tool |
