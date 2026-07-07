@@ -20,6 +20,21 @@ I help startups and small teams ship products fast: from MVP to production, with
 
 ---
 
+### ✍️ Published technical writing
+
+I write about how developer tools and web technologies work under the hood.
+
+**Toptal** (English, verified expert)
+- [Gulp Under the Hood](https://www.toptal.com/developers/nodejs/gulp-under-the-hood) — building a Gulp-compatible task automation tool with Node.js streams
+- [Integration and E2E Tests with Node.js and MongoDB](https://www.toptal.com/developers/nodejs/integration-and-e2e-tests-nodejs-mongodb) — practical testing with mongo-unit
+
+**Habr** (Russian, 80K+ total readers)
+- [UI framework за 5 минут](https://habr.com/p/415857/) — a tiny React-like virtual DOM implementation (24K readers)
+- [Реализуем 3D картинку в браузере](https://habr.com/p/212297/) — WebGL/3D experiments (21K readers)
+- [Стерео плеер из VLC](https://habr.com/p/211468/) — VLC/OpenGL stereo rendering (42K readers)
+
+---
+
 ### 🛠 Tech
 
 * **Languages:** TypeScript, JavaScript, Go, Kotlin, Python
