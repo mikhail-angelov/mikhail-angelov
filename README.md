@@ -43,7 +43,7 @@ I write about how developer tools and web technologies work under the hood.
 - [Реализуем 3D картинку в браузере](https://habr.com/p/212297/) — WebGL/3D experiments (21K readers)
 - [Стерео плеер из VLC](https://habr.com/p/211468/) — VLC/OpenGL stereo rendering (42K readers)
 
-[→ Full list of published writing](WRITING.md) · [writing page](https://mikhail-angelov.github.io/mikhail-angelov/writing)
+[→ Full list of published writing](WRITING.md) · [writing page](https://mikhail-angelov.github.io/profile/#writing)
 
 ---
 
