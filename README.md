@@ -2,14 +2,25 @@
 
 **Freelance Full-Stack TypeScript / Node.js Engineer** — remote, EU/UK/US timezone overlap.
 
-I help startups and small teams ship products fast: from MVP to production, with clean architecture and pragmatic tech choices. Freelancing, consulting, and building open source since 2012.
+I help startups and small teams ship products fast: from MVP to production, with clean architecture and pragmatic tech choices. These days most of my work is **AI agents, voice interfaces and developer tooling** — and I keep building them in the open.
 
 💼 **Available for new projects** — 📧 mikhail.angelov@gmail.com · [Telegram](https://t.me/mikhailangelov)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikhail-angelov)
 [![Toptal](https://img.shields.io/badge/Toptal-3863A0?style=flat&logo=toptal&logoColor=white)](https://talent.toptal.com/resume/developers/mikhail-angelov)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mikhailangelov)
-[![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/@mangelov:gnulinux.club)
+[![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/@mikhail:matrix.bconf.com)
+
+---
+
+### 🚀 Now
+
+| Project | What it is |
+|---------|------------|
+| [vadic](https://github.com/mikhail-angelov/vadic) | Push-to-talk voice dictation for macOS — speech recognized locally (whisper.cpp on Metal), text typed into any field · `brew install mikhail-angelov/tap/vadic` |
+| [beseda](https://github.com/mikhail-angelov/beseda) | Voice dialogs with coding agents in the terminal — wake word, local STT/TTS, pluggable agent backends · `uv tool install beseda` |
+| [ari](https://github.com/mikhail-angelov/ari) | Architecture review for any TypeScript / Go project — describes what the codebase actually is |
+| [EasyCAD](https://github.com/mikhail-angelov/easycad) | LLM chat that builds simple 3D-printable CAD models — [easycad.bconf.com](https://easycad.bconf.com) |
 
 ---
 
@@ -39,27 +50,36 @@ I write about how developer tools and web technologies work under the hood.
 
 ### 🛠 Tech
 
-* **Languages:** TypeScript, JavaScript, Go, Kotlin, Python
+* **Languages:** TypeScript, JavaScript, Go, Python, Kotlin, Swift
 * **Frontend:** React, Preact, Web Components, Tailwind CSS, shadcn/ui, Vanilla JS
 * **Backend:** Node.js, NestJS, Express
 * **Data:** PostgreSQL, MongoDB, SQLite
+* **AI:** LLM agents & tool calling, OpenAI API, MCP, local speech (whisper.cpp, GigaAM), RAG
 * **Infra:** Docker, GitHub Actions, Nginx
-* **AI:** OpenAI API, LangChain
 
 ---
 
-### 📌 Projects
+### 📌 Selected projects
 
 | Project | Description |
 |---------|-------------|
-| [mongo-unit](https://github.com/mikhail-angelov/mongo-unit) | ⭐ 74 — In-memory MongoDB for unit tests, published on npm, used across 42 projects |
-| [2maps-and](https://github.com/mikhail-angelov/2maps-and) | Extended Map component for Android (Kotlin / MapLibre) |
+| [mongo-unit](https://github.com/mikhail-angelov/mongo-unit) | ⭐ 75 — In-memory MongoDB for unit tests, published on npm, used across 42 projects |
+| [2maps-and](https://github.com/mikhail-angelov/2maps-and) | ⭐ 3 — Offline navigator for Android: MapLibre + embedded BRouter routing (Kotlin) |
+| [herdr-review-loop](https://github.com/mikhail-angelov/herdr-review-loop) | ⭐ 3 — Automated cross-review between coding agents in a herdr workspace |
+| [2FA](https://github.com/mikhail-angelov/2FA) | TOTP authenticator for Android — secrets in Android Keystore, encrypted export (Kotlin) |
+| [captureScreenJs](https://github.com/mikhail-angelov/captureScreenJs) | ShotMark — screenshot annotation for macOS, built on Tiny.js |
+| [redoproxy](https://github.com/mikhail-angelov/redoproxy) | Lightweight reverse proxy with automatic TLS for Docker environments |
 | [badge-maker](https://github.com/mikhail-angelov/badge-maker) | Online canvas editor for custom badges |
-| [ShotMark](https://github.com/mikhail-angelov/shotmark) | Screenshot annotation tool |
-| [redoproxy](https://github.com/mikhail-angelov/redoproxy) | Lightweight reverse proxy for Docker environments |
 
 ---
 
+### 🌍 Open source contributions
+
+* [dundee/gdu](https://github.com/dundee/gdu) — **two merged upstream PRs**: [#651 treemap for the web UI](https://github.com/dundee/gdu/pull/651) and [#659 delete / reveal actions](https://github.com/dundee/gdu/pull/659) (security hardening: DNS-rebinding, TOCTOU, request limits)
+* [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp) — merged [#50 windowless tray agents on macOS](https://github.com/tarwin/tinyjsapp/pull/50), shipped in v0.51.0
+* [mongo-unit](https://github.com/mikhail-angelov/mongo-unit) — maintainer since 2017: releases, issue triage, community PR review
+
+---
 
 ### 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikhail-angelov&show_icons=true&include_all_commits=true&hide_rank=true)
@@ -67,5 +87,5 @@ I write about how developer tools and web technologies work under the hood.
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/mikhail-angelov) · [Toptal](https://talent.toptal.com/resume/developers/mikhail-angelov) · [Telegram](https://t.me/mikhailangelov) · [Matrix](https://matrix.to/#/@mangelov:gnulinux.club) · 📧 mikhail.angelov@gmail.com
+📫 [LinkedIn](https://linkedin.com/in/mikhail-angelov) · [Toptal](https://talent.toptal.com/resume/developers/mikhail-angelov) · [Telegram](https://t.me/mikhailangelov) · [Matrix](https://matrix.to/#/@mikhail:matrix.bconf.com) · 📧 mikhail.angelov@gmail.com
 **Open for freelance & consulting work — let's talk about your project.**
