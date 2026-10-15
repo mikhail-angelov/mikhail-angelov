@@ -14,7 +14,6 @@ Senior TypeScript / Node.js engineer with 20+ years of experience. Freelance —
 
 - **vadic** — push-to-talk voice dictation for macOS, speech recognized locally · [repo](https://github.com/mikhail-angelov/vadic) · `brew install mikhail-angelov/tap/vadic`
 - **beseda** — voice dialogs with coding agents in the terminal · [repo](https://github.com/mikhail-angelov/beseda) · `uv tool install beseda`
-- **ari** — architecture review for any TypeScript / Go project · [repo](https://github.com/mikhail-angelov/ari)
 - **EasyCAD** — LLM chat that builds simple 3D-printable models · [text2part.bconf.com](https://text2part.bconf.com/)
 
 ## Open source

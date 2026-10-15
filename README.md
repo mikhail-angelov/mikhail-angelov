@@ -19,7 +19,6 @@ I help startups and small teams ship products fast: from MVP to production, with
 |---------|------------|
 | [vadic](https://github.com/mikhail-angelov/vadic) | Push-to-talk voice dictation for macOS — speech recognized locally (whisper.cpp on Metal), text typed into any field · `brew install mikhail-angelov/tap/vadic` |
 | [beseda](https://github.com/mikhail-angelov/beseda) | Voice dialogs with coding agents in the terminal — wake word, local STT/TTS, pluggable agent backends · `uv tool install beseda` |
-| [ari](https://github.com/mikhail-angelov/ari) | Architecture review for any TypeScript / Go project — describes what the codebase actually is |
 | [EasyCAD](https://github.com/mikhail-angelov/easycad) | LLM chat that builds simple 3D-printable CAD models — [text2part.bconf.com](https://text2part.bconf.com/) |
 
 ---
