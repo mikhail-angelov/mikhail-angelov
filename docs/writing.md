@@ -1,3 +1,6 @@
+---
+permalink: /writing
+---
 # Published Writing
 
 I write about how developer tools and web technologies work under the hood — in English (Toptal) and Russian (Habr).
